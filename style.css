@@ -111,9 +111,18 @@ padding-bottom: 5px;
 .tag-viola {
     background-color: #ab5de6;
 }
-
+.tag-viola-chiaro{
+    background-color: #ec4a9d;
+}
 .tag-verde{
     background-color: #2cc6ab;
+}
+.tag-verde-chiaro{
+    background-color: #a3d116;
+}
+
+.tag-giallo{
+    background-color: #ff9b00;
 }
 
 .margin{
