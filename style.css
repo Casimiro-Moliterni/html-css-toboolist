@@ -34,6 +34,7 @@ header{
     background-color: white;
     margin-top: 40px;
     border-radius: 5px;
+    padding-bottom: 40px;
     
 }
 /* nav  */
@@ -62,20 +63,30 @@ padding-bottom: 5px;
     font-weight: 400;  
 }
 /* /nav  */
-
+/* dimensioni celle  */
 .new-task{
     margin-left: 50px;
     margin-top: 30px;
     margin-bottom: 35px;
     
 }
-
+.margin{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+/* /dimensioni celle  */
+/* testo main  */
 .text-task{
     font-size: 25px;
     color: #434851;
     margin-bottom: 18px;
 }
 
+.font-18{
+    font-size: 18px;
+}
+/* /testo main  */
+/* cerchi  */
 .circle{
     display: inline-block;
     height: 20px;
@@ -94,11 +105,9 @@ padding-bottom: 5px;
     color: red;
     border:1px solid red;
 }
+/* /cerchi  */
 
-.font{
-    font-size: 18px;
-}
-
+/* tag  */
 .tag{
     display: inline-block;
     background-color: #14aaf5;
@@ -124,8 +133,4 @@ padding-bottom: 5px;
 .tag-giallo{
     background-color: #ff9b00;
 }
-
-.margin{
-    margin-top: 10px;
-    margin-left: 50px;
-}
+/* /tag  */
