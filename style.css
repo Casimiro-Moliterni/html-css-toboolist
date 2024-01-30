@@ -28,19 +28,22 @@ header{
 
 /* inizio main  */
 .conteiner{
-    padding-left: 50px;
+    
     max-width: 800px;
     margin: auto;
     background-color: white;
     margin-top: 40px;
+    border-radius: 5px;
     
 }
 /* nav  */
 .nav{
 border-bottom:3px solid #f6f8f9;
+padding-bottom: 5px;
 }
  
 .botton {
+    margin-left: 50px;
     margin-top: 10px;
     width: 70px;
     height: 30px;
@@ -60,3 +63,60 @@ border-bottom:3px solid #f6f8f9;
 }
 /* /nav  */
 
+.new-task{
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    
+}
+
+.text-task{
+    font-size: 25px;
+    color: #434851;
+    margin-bottom: 18px;
+}
+
+.circle{
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    border: 1px solid green;
+    text-align: center;
+    line-height: 20px;
+    font-weight: 800;
+    color: green;
+    margin-right: 10px;
+    
+}
+
+.circle-red{
+    color: red;
+    border:1px solid red;
+}
+
+.font{
+    font-size: 18px;
+}
+
+.tag{
+    display: inline-block;
+    background-color: #14aaf5;
+    color: white;
+    border-radius: 16px;
+    padding: 6px 10px;
+    margin-left: 10px;
+}
+
+.tag-viola {
+    background-color: #ab5de6;
+}
+
+.tag-verde{
+    background-color: #2cc6ab;
+}
+
+.margin{
+    margin-top: 10px;
+    margin-left: 50px;
+}
