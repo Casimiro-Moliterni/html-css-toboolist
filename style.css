@@ -23,3 +23,40 @@ header{
     padding-top: 10px;
     padding:15px 20px 10px;
 }
+
+/* /header  */
+
+/* inizio main  */
+.conteiner{
+    padding-left: 50px;
+    max-width: 800px;
+    margin: auto;
+    background-color: white;
+    margin-top: 40px;
+    
+}
+/* nav  */
+.nav{
+border-bottom:3px solid #f6f8f9;
+}
+ 
+.botton {
+    margin-top: 10px;
+    width: 70px;
+    height: 30px;
+    color: white;
+    background-color: #14aaf5;
+    border-radius: 5px;
+}
+
+.botton-2 {
+    border:2px solid #f6f8f9;
+    margin-top: 10px;
+    width: 90px;
+    height: 30px;
+    color: #dbdfe2;
+    border-radius: 5px;  
+    font-weight: 400;  
+}
+/* /nav  */
+
